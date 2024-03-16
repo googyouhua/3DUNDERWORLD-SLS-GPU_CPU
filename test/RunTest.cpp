@@ -4,6 +4,7 @@
 #include <sstream>
 #include <gtest/gtest.h>
 
+//xxx
 const float MAX_DIFF = 0.5;
 
 inline bool comparePlyLine(std::string line1, std::string line2)
